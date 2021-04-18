@@ -1,0 +1,27 @@
+menu:
+  en: Menu
+
+elements:
+  - page:
+      en: Add navigation
+      url:
+        default: # Apply a link to all languages
+        en: another-page
+  - group:
+    en: With groups
+    pages:
+      - page:
+          en: Link to a page
+          url:
+            en: another-page
+      - page:
+          en: Another link
+          url:
+            en: another-page
+  - group:
+    en: Another group
+    pages:
+      - page:
+          en: Use Markdown *styling*
+          url:
+            en: another-page

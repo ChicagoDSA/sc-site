@@ -1,0 +1,28 @@
+# Supported languages
+en: English
+
+# Website info
+title:
+  en: Chicago Socialist Caucus
+description:
+  en: Home website of the Chicago Socialist Caucus.
+chapter-name:
+  en: Chicago Socialist Caucus
+
+# Join DSA button
+join:
+  text:
+    en: Support Us
+  url: # Override DSA national link
+    default: # Apply a link to all languages
+    en: # Or define specific values
+
+# Footer
+follow-us:
+  en: Follow us on social media
+back-to-top:
+  en: Back to top
+
+# Other content
+photo:
+  en: Photo
