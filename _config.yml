@@ -14,8 +14,14 @@ permalink: pretty
 remote_theme: ChicagoDSA/haymarket # Append @vX.X.X to specify a version number
 staging_url:
 plugins:
+  - jekyll-webp
   - jekyll-redirect-from
+  - jekyll-paginate
 jekyll_webp_installed: false
+
+# Post pagination settings
+paginate: 5
+paginate_path: "updates/page:num/"
 
 # Set default front matter for Markdown files
 defaults:
@@ -54,4 +60,6 @@ collections:
     output: true
   # Add single pages in the _pages folder
   pages:
+    output: true
+  posts:
     output: true
