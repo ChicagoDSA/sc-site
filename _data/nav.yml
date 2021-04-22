@@ -3,25 +3,17 @@ menu:
 
 elements:
   - page:
-      en: Add navigation
+      en: Who We Are
       url:
         default: # Apply a link to all languages
-        en: another-page
-  - group:
-    en: With groups
-    pages:
-      - page:
-          en: Link to a page
-          url:
-            en: another-page
-      - page:
-          en: Another link
-          url:
-            en: another-page
-  - group:
-    en: Another group
-    pages:
-      - page:
-          en: Use Markdown *styling*
-          url:
-            en: another-page
+        en: platform
+  - page:
+      en: What We Believe
+      url:
+        default: # Apply a link to all languages
+        en: platform
+  - page:
+      en: Latest Updates
+      url:
+        default: # Apply a link to all languages
+        en: updates

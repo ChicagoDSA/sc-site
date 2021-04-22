@@ -3,19 +3,18 @@ en: English
 
 # Website info
 title:
-  en: Chicago Socialist Caucus
+  en: Chicago Democratic Socialist Caucus
 description:
-  en: Home website of the Chicago Socialist Caucus.
+  en: Home website of the Chicago Democratic Socialist Caucus.
 chapter-name:
-  en: Chicago Socialist Caucus
+  en: Chicago Democratic Socialist Caucus
 
 # Join DSA button
 join:
   text:
-    en: Support Us
+    en: Donate
   url: # Override DSA national link
-    default: # Apply a link to all languages
-    en: # Or define specific values
+    default: https://secure.actblue.com/
 
 # Footer
 follow-us:

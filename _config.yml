@@ -4,10 +4,10 @@ chapter:
   instagram: # Instagram URL
   twitter: # Twitter URL
   # Override DSA national logos
-  header-logo-svg:
-  header-logo-png-fallback: # 360px square recommended
-  background-logo-svg:
-  background-logo-png-fallback: # 1440px square recommended
+  header-logo-svg: "images/Socialist-Caucus-Color.svg"
+  header-logo-png-fallback: "images/Socialist-Caucus-Color.png" # 360px square recommended
+  background-logo-svg: "images/Socialist-Caucus-Color.svg"
+  background-logo-png-fallback: "images/Socialist-Caucus-Color.png" # 1440px square recommended
 google_analytics: # Tracking ID
 teamup: # Calendar API key
 permalink: pretty

@@ -1,13 +1,13 @@
 ---
 lang-ref: homepage
 title: Welcome
-headline: We are the Democratic Socialists of America
+headline: We are the Democratic Socialists Caucus of the City of Chicago
 subhead: We are creating a more equitable world by establishing socialism as a political force. We believe our governments and economy should operate, through social ownership, for the benefit of all.
 image: images/March-for-Healthcare-Justice-DSA-banner.png
-image-description: Chicago DSA members prepare to walk at the June 27, 2020 March for Healthcare Justice.
-image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
-redirect_from:
-  - /about-us
+image-description: "Chicago Democractic Socialist Caucus members: (right to left)..."
+image-credit: "[image credit here](https://google.com)"
 ---
 
-Hello world
+Landing page with group photo of aldermen, names,
+
+Footer with social media handles
