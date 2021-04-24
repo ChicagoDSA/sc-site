@@ -1,0 +1,18 @@
+<!-- a collection gets passed in -->
+{% for item in sortedCollection limit:limit %}
+		{% assign url = item.url | relative_url %}
+		{% assign image = item.image | relative_url %}
+		{% assign image-description = item.image-description | markdownify | remove: "<p>" | remove: "</p>" %}
+		{% include list-tiles-item.html title=item.title link=url image=image image-description=image-description %}
+	{% endfor %}
+<div>
+  {% assign collection = site.[include.collection] %}
+  {% for item in collection %}
+  <div class="">
+    {{item.name}}
+    <img src="{{item.image}}"/>
+    <!-- text -->
+    {{item.content}}
+  </div>
+  {% endfor %}
+</div>
