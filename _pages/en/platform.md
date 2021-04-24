@@ -1,9 +1,12 @@
 ---
 lang-ref: platform
 title: What We Believe
-description: <!-- optional metadata -->
-headline: <!-- optional display text -->
-subhead: <!-- optional display text -->
+description: This is a brief description of who we are
+headline: We represent the people of Chicago
+subhead: Affordable housing, green urban planning, reform of city hall....
+image: images/hancock.jpeg
+image-description: "Chicago Democractic Socialist Caucus members: (right to left)..."
+image-credit: "[image credit here](https://google.com)"
 ---
 
 Platform/Principles/ Issues Page
