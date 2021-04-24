@@ -140,12 +140,12 @@ a {
 
   #headline-image {
     height: 24rem;
-    border-left: 1rem solid $dsa-red;
+    border-left: 1rem solid $chi-blue;
   }
 
   #headline-image-webp {
     height: auto;
-    border-left: 1rem solid $dsa-red;
+    border-left: 1rem solid $chi-blue;
   }
 
   @include small {
@@ -281,7 +281,7 @@ a,
   display: block;
   position: relative;
   text-align: left;
-  background-color: $dsa-red;
+  background-color: $chi-blue;
 
   #background-logo {
     position: absolute;
@@ -406,7 +406,7 @@ a,
       }
 
       #join {
-        background-color: $dsa-purple;
+        background-color: $dsa-red;
 
         a {
           color: $white;
@@ -902,7 +902,7 @@ a,
       right: 0;
       bottom: 0;
       left: 0;
-      background-color: $dsa-purple;
+      background-color: $dsa-red;
 
       h4 {
         margin: 0;
@@ -936,7 +936,7 @@ a,
 
   .tile-container-text {
     .color-background {
-      background-color: $dsa-purple;
+      background-color: $dsa-red;
 
       @include small {
         display: none;
@@ -978,7 +978,7 @@ a,
       .column-fix {
         position: relative;
         margin-right: 1rem;
-        background-color: $dsa-purple;
+        background-color: $dsa-red;
       }
 
       .title {
@@ -1016,7 +1016,7 @@ a,
 
   .btn {
     display: inline-block;
-    background-color: $dsa-red;
+    background-color: $chi-blue;
   }
 
   /* Other components */
