@@ -2,10 +2,13 @@
 <div>
   {% assign collection = site.[include.collection] %}
   {% for item in collection %}
-  <div style="display: flex;flex-direction: column;">
+  <div class="alder-outer-container">
     <h3>{{item.name}}</h3>
-    <div class="" style="display:flex; align-items: center;">
-      <img src="{{item.image}}" width="225px"/>
+    <div class="alder-inner-container">
+      <picture>
+        <source srcset="{{ item.image | relative_url | replace:'.png','.webp' | replace:'.jpg','.webp' }}" type="image/webp">
+        <img loading="lazy" src="{{item.image}}" alt="Alderperson headshot." width="225px">
+      </picture>
       <!-- text -->
       {{item.content}}
     </div>
