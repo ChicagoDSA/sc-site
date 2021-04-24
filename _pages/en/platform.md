@@ -4,7 +4,7 @@ title: What We Believe
 description: This is a brief description of who we are
 headline: We represent the people of Chicago
 subhead: Affordable housing, green urban planning, reform of city hall....
-image: images/hancock.jpeg
+image: images/hancock.jpg
 image-description: "Chicago Democractic Socialist Caucus members: (right to left)..."
 image-credit: "[image credit here](https://google.com)"
 ---
