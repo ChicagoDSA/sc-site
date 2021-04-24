@@ -2,9 +2,10 @@
 title: "Introducing the Chicago Democratic Socialists Caucus"
 date: 2021-04-21
 image: images/Socialist-Caucus-Black.png
+layout: post
 ---
 
-This is the first post introducing the newest caucus in Chicago City Council.
+This is the first post introducing the newest caucus in Chicago City Council. This post could include downloads, images, links or other media. Nulla et aute eu minim ea sit velit non dolor qui ad. Cillum cupidatat irure culpa exercitation.
 
 Cupidatat duis amet eu eu minim. Occaecat nostrud culpa laborum nostrud officia laboris laboris velit ullamco veniam et. Consectetur laborum consectetur elit ut Lorem aute proident nisi voluptate pariatur aliqua aute.
 

@@ -12,7 +12,7 @@ subhead: These could be press releases, full articles, calls to action, announce
     <span class="date">{{ post.date | date: "%-d %B %Y" }}</span>
   </p>
   <div class="content">
-    {{ post.content }}
+    {{ post.excerpt }}
   </div>
 {% endfor %}
 
