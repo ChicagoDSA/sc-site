@@ -1,7 +1,7 @@
 # Add content here to enable a site-wide announcement
 text:
-  en: # Style your text with Markdown
+  en: "**Here's an announcement:** you can turn it off/on, add styling, and link to other pages" # Style your text with Markdown
   es: # Add translations
 url:
-  default: # Apply a link to all languages
+  default: /platform
   en: # Or add language-specific links

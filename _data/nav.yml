@@ -6,7 +6,7 @@ elements:
       en: Who We Are
       url:
         default: # Apply a link to all languages
-        en: platform
+        en: who-we-are
   - page:
       en: What We Believe
       url:
