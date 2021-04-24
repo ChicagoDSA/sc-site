@@ -17,3 +17,8 @@ elements:
       url:
         default: # Apply a link to all languages
         en: updates
+  - page:
+      en: Contact Us
+      url:
+        default: # Apply a link to all languages
+        en: contact
