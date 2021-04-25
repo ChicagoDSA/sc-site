@@ -1,9 +1,9 @@
 <!-- a collection gets passed in -->
 <div>
-  {% assign collection = site.[include.collection] %}
+  {% assign collection = site.[include.collection] | sort: "order" %}
   {% for item in collection %}
   <div class="alder-outer-container">
-    <h3>{{item.name}}</h3>
+    <span><strong>{{item.name}}</strong></span>
     <div class="alder-inner-container">
       <picture>
         <source srcset="{{ item.image | relative_url | replace:'.png','.webp' | replace:'.jpg','.webp' }}" type="image/webp">

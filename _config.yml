@@ -104,3 +104,9 @@ collections:
     output: true
   alders:
     output: false
+    order:
+      - carlos-ramirez-rosa.md
+      - byron-sigcho-lopez.md
+      - jeanette-taylor.md
+      - rossana-rodriguez-sanchez.md
+      - daniel-la-spata.md
