@@ -1,7 +1,7 @@
 # Add content here to enable a site-wide announcement
 text:
-  en: "**Here's an announcement:** you can turn it off/on, add styling, and link to other pages" # Style your text with Markdown
+  en: "**There is a new caucus in Chicago City Hall**: Read the latest" # Style your text with Markdown
   es: # Add translations
 url:
-  default: /platform
+  default: /2021/04/21/introducing-cdsc
   en: # Or add language-specific links
