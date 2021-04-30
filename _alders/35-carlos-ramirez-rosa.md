@@ -3,13 +3,4 @@ name: Carlos Ramirez-Rosa, 35th Ward, Chair
 image: images/*carlos.jpg
 ---
 
-Carlos Ramirez-Rosa is a lifelong Chicagoan who has dedicated his life to public service. As a community organizer, former congressional caseworker, and now 35th Ward Alderman, Carlos has always put our families and our neighborhoods first.
-<br/>
-<br/>
-As a community organizer with the Illinois Coalition for Immigrant and Refugee Rights (ICIRR), Carlos worked to keep families safe from deportation and win President Obama’s historic executive action to fix immigration. Prior to ICIRR, he served as a congressional caseworker in the office of U.S. Congressman Luis Gutierrez. There, Carlos spearheaded successful constituent service efforts that helped families, seniors, and veterans cut through government red tape and solve their government problems.
-<br/>
-<br/>
-Carlos worked to keep schools open, raise the minimum wage, support public employees, and expand LGBT equality. He served as an elected Community Representative to the Avondale-Logandale Local School Council. As a former mentor at Erie Neighborhood House and a high school debate coach for CPS students, Carlos helped our youth develop leadership skills and set them on a path to college.
-<br/>
-<br/>
-Carlos is a proud graduate of our Chicago Public Schools and the University of Illinois at Urbana-Champaign. At the University of Illinois, he worked to secure unprecedented funding for women and LGBT programs. Carlos is the first openly gay Latino elected to Chicago City Council.
+Queer, Latinx, and a lifelong Chicagoan, Carlos Ramirez-Rosa is now in his second term as Alderman of Chicago’s 35th Ward. A deportation defense organizer prior to his election, Carlos has legislated by working alongside movements for social and economic justice. As Alderman, Carlos has fought for and won property tax relief for struggling families, new affordable housing, strengthened protections for workers, undocumented immigrants, and transgender Chicagoans. Carlos was an elected Bernie Sanders delegate to the 2016 Democratic National Convention, and Illinois Vice-Chair for Bernie Sanders' 2020 presidential campaign. Carlos has been recognized by Chicago Magazine, Chicago Reader, and The Nation for his progessive leadership and movement building efforts. A graduate of the University of Illinois at Urbana-Champaign, and Whitney M. Young Magnet High School, Carlos is a proud product of our public schools. He lives in Avondale with his partner Bryan and their dog Itztli.

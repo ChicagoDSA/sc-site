@@ -1,18 +1,6 @@
 ---
-name: Rossana Rodriguez-Sanchez, 33rd Ward
+name: Rossana Rodriguez Sánchez, 33rd Ward
 image: images/*rossana.jpg
 ---
 
-Alderman Rossana Rodriguez was elected to the 33rd Ward Alderman on April 2nd, 2019. Alderman Rodriguez is a mother and resident of the Albany Park neighborhood. Prior to becoming alderman, Rossana worked as a youth educator and was involved in community groups as an activist and organizer.
-<br/>
-<br/>
-Her interests as alderman include protecting neighborhood affordability, supporting our ward’s immigrant population, young people, and diverse communities, and creating more democratic processes so that ward residents are involved in the decisions that impact their lives.
-<br/>
-<br/>
-Originally from Puerto Rico, Alderman Rodriguez has been a lifelong advocate for public education, labor rights, and the wellbeing of youth and families. Her career as an educator includes eight years as a director and mentor in a nationally acclaimed youth theater company in Albany Park, where she guided high school students to fulfill their artistic and academic potential.
-<br/>
-<br/>
-Alderman Rodriguez is the first Latinx alderman to represent the 33rd Ward. She serves as chair of the immigration committee on the City Council’s Latino Caucus and is a member of the Progressive Caucus.
-<br/>
-<br/>
-She serves on the City Council’s committees on Education and Child Development, Environmental Protection and Energy, Ethics and Government Oversight, Health and Human Relations, Pedestrian and Traffic Safety, and Committees and Rules.
+Rossana Rodriguez Sánchez is a Boricua mother, educator, theatre artist, organizer and the Alderwoman of Chicago’s 33rd Ward. She spent the last decade working with youth and families in Albany Park. Originally from Puerto Rico, Rossana attended her first demonstration at the age of six, when her neighborhood of Mariana waged a successful battle for public access to drinking water. Since then she has become a fierce advocate for public education, fighting against privatization and school closings in Puerto Rico and in Chicago. As a resident of Albany Park and founding member of 33rd Ward Working Families, Rossana has also been a leader in the fights for rent control and immigrant rights in her ward. Rossana holds a BA in Theater Education and an MA in Applied Theater and is currently pursuing an MSW. Her main focus of work is mental health and the creation of systems of care to replace the racist systems of punishment we now understand as “public safety.”

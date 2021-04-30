@@ -1,20 +1,14 @@
 ---
 lang-ref: who-we-are
-title: Who We Are
-description: This is a brief description of our platform
-headline: This is who we are
-subhead: Affordable housing, green urban planning, reform of city hall....
+title:
+description: We are a multiracial coalition of alderpeople representing portions of 20 neighborhoods
+headline:
+subhead: We are a multiracial coalition of alderpeople representing portions of 20 neighborhoods on the south, north, northwest, and lower west sides of Chicago. We are Black, white, Latinx, immigrants, descendents of immigrants, and descendents of slaves. We are the Democratic Socialist Caucus of the Chicago City Council.
 image: images/socialist-caucus-group.jpg
-image-description: "Chicago Democractic Socialist Caucus members: (right to left)..."
-image-credit: "[image credit here](https://google.com)"
+image-description: "(Left to right) Byron Sigcho Lopez, Daniel La Spata, Rossana Rodriguez Sánchez, Jeanette Taylor, Carlos Ramirez-Rosa"
+image-credit: "[Isaac Silver]"
 ---
 
-The Democratic Socialists Caucus is....
-
-Bio page with individual photos and blurbs
-
-- Give people parameters and ask individual members to fill it out (150 word max)
-- “Membership is open to any self identified socialist who operates by the socialist
-- “All five members of the socialist caucus are members of the Chicago
-
 {% include image-bio.html collection="alders" %}
+
+**Carlos, Rossana, Byron, Jeanette, and Daniel are members of the [Chicago Democratic Socialists of America](https://chicagodsa.org/) (CDSA)**
