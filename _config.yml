@@ -21,7 +21,7 @@ jekyll_webp_installed: true
 
 # Post pagination settings
 paginate: 5
-paginate_path: "updates/page:num/"
+paginate_path: "press/page:num/"
 
 ############################################################
 # Site configuration for the WebP Generator Plugin
@@ -99,7 +99,7 @@ collections:
   # Add single pages in the _pages folder
   pages:
     output: true
-  # Updates can be added in the _posts folder
+  # Press updates can be added in the _posts folder
   posts:
     output: true
   alders:

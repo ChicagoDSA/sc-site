@@ -13,10 +13,10 @@ elements:
         default: # Apply a link to all languages
         en: platform
   - page:
-      en: Latest Updates
+      en: Press Room
       url:
         default: # Apply a link to all languages
-        en: updates
+        en: press
   - page:
       en: Contact Us
       url:
