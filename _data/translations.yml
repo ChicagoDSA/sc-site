@@ -10,11 +10,11 @@ chapter-name:
   en: Chicago Democratic Socialists Caucus
 
 # Join DSA button
-join:
-  text:
-    en: Donate
-  url: # Override DSA national link
-    default: https://secure.actblue.com/
+# join:
+#   text:
+#     en:
+#   url: # Override DSA national link
+#     default:
 
 # Footer
 follow-us:
