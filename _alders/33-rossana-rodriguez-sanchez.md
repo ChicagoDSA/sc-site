@@ -1,6 +1,6 @@
 ---
 name: Rossana Rodriguez-Sanchez, 33rd Ward
-image: images/rodriguez-sanchez-rossana.jpg
+image: images/*rossana.jpg
 ---
 
 Alderman Rossana Rodriguez was elected to the 33rd Ward Alderman on April 2nd, 2019. Alderman Rodriguez is a mother and resident of the Albany Park neighborhood. Prior to becoming alderman, Rossana worked as a youth educator and was involved in community groups as an activist and organizer.

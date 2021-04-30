@@ -1,6 +1,6 @@
 ---
 name: Byron Sigcho Lopez, 25th Ward
-image: images/sigcho-lopez-byron.png
+image: images/*byron.jpg
 ---
 
 Alderman Byron Sigcho-Lopez was elected to the 25th Ward Alderman on April 2nd, 2019. Alderman Byron Sigcho-Lopez was born in Quito, Ecuador. He immigrated to the US at the age of 17. He attended Cumberland University in Tennessee and graduate with a bachelor’s degree in Mathematics and Business Administration. While still learning the English language and overcoming many challenges as an immigrant, Alderman Sigcho-Lopez received the President’s Award from Cumberland University. Shortly after, he received his master’s degree in Economics and is currently a PhD Policy candidate in Urban Education at the University of Illinois in Chicago, where he found his second home – Pilsen.

@@ -1,6 +1,6 @@
 ---
 name: Daniel La Spata, 1st Ward
-image: images/LaSpataHeadshot.jpg
+image: images/*daniel.jpg
 ---
 
 Alderman Daniel LaSpata was elected to 1st Ward Alderman on February 26th, 2019. He has spent the last twenty years in Chicago and the last thirteen as a leader on housing and community development campaigns in the greater Logan Square area. Currently a Masters’ Candidate in Urban Planning and Public Policy at UIC, Daniel also took on fruitful professional experiences with the Chicago Rehab Network, Center for Tax and Budget Accountability, and Friends of the Parks.

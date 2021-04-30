@@ -1,6 +1,6 @@
 ---
 name: Carlos Ramirez-Rosa, 35th Ward, Chair
-image: images/carlos-rr.jpg
+image: images/*carlos.jpg
 ---
 
 Carlos Ramirez-Rosa is a lifelong Chicagoan who has dedicated his life to public service. As a community organizer, former congressional caseworker, and now 35th Ward Alderman, Carlos has always put our families and our neighborhoods first.

@@ -4,7 +4,7 @@ title: Who We Are
 description: This is a brief description of our platform
 headline: This is who we are
 subhead: Affordable housing, green urban planning, reform of city hall....
-image: images/skyline.jpg
+image: images/socialist-caucus-group.jpg
 image-description: "Chicago Democractic Socialist Caucus members: (right to left)..."
 image-credit: "[image credit here](https://google.com)"
 ---

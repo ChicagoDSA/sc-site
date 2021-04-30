@@ -1,6 +1,6 @@
 ---
 name: Jeanette Taylor, 20th Ward
-image: images/taylor-jeanette.jpg
+image: images/*Jeanette.jpg
 ---
 
 Alderman Jeanette B. Taylor was elected to the 20th Ward Alderman on April 2nd, 2019. Alderman Taylor is a lifelong Chicagoan, a dedicated wife, mother of five children and grandmother of one beautiful child. She is the oldest of three children and a product of the historic Bronzeville community, where the phrase “It takes a village” has always been her mantra. Alderman Taylor is a dedicated community leader with a 20-year history of working for education and youth justice. She has a keen understanding of community needs based on her years of service as a local school council member and a parent advocate.
