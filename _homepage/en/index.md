@@ -2,10 +2,10 @@
 lang-ref: homepage
 layout: no-title-h1
 title: Welcome
-subhead: We are creating a more equitable world by establishing socialism as a political force. We believe our governments and economy should operate, through social ownership, for the benefit of all.
+subhead: We center working class Chicagoans and movements for justice in our legislative work. We are the Democratic Socialist Caucus of the Chicago City Council.
 image: images/socialist-caucus-group-fist.jpg
-image-description: "Chicago Democractic Socialist Caucus members: (right to left)..."
-image-credit: "[image credit here](https://google.com)"
+image-description: "(Left to right) Daniel La Spata, Rossana Rodriguez Sánchez,  Byron Sigcho Lopez, Carlos Ramirez-Rosa, Jeanette Taylor."
+image-credit: "Isaac Silver"
 ---
 
 ## Thank you for your interest...
