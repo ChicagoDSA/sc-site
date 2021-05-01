@@ -1,14 +1,13 @@
 chapter:
-  url: # your-chapter-website.org
-  facebook: http://facebook.com/ChiDemSocCaucus
-  instagram: http://instagram.com/ChiDemSocCaucus
-  twitter: http://twitter.com/ChiDemSocCaucus
+  url: https://chicagosocialistcaucus.org # your-chapter-website.org
+  facebook: http://facebook.com/chidemsocialists
+  twitter: https://twitter.com/ChiSocialists
   # Override DSA national logos
   header-logo-svg: "images/Socialist-Caucus-Color.svg"
   header-logo-png-fallback: "images/Socialist-Caucus-Color.png" # 360px square recommended
   background-logo-svg: "images/Socialist-Caucus-Color.svg"
   background-logo-png-fallback: "images/Socialist-Caucus-Color.png" # 1440px square recommended
-google_analytics: # Tracking ID
+google_analytics: G-15FV0EVBPG # Tracking ID
 teamup: # Calendar API key
 permalink: pretty
 remote_theme: ChicagoDSA/haymarket # Append @vX.X.X to specify a version number

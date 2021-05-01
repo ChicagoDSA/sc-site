@@ -8,15 +8,7 @@ image-description: "(Left to right) Daniel La Spata, Rossana Rodriguez Sánchez,
 image-credit: "Isaac Silver"
 ---
 
-## Thank you for your interest...
-
-Landing page with group photo of aldermen, names,
-
-Consectetur cillum minim sunt minim. Tempor elit incididunt reprehenderit deserunt ut ea magna do eu ex reprehenderit consequat proident aliquip. Commodo ad voluptate sit laborum. Sint minim deserunt deserunt ullamco est qui. Cillum cupidatat duis veniam quis ipsum veniam ad exercitation ea ea. Labore labore labore cillum aliquip excepteur sint.
-
-Ullamco sunt esse voluptate anim. Mollit dolor dolor reprehenderit reprehenderit ipsum consectetur quis amet deserunt nisi sunt cillum anim consequat. In aute occaecat nisi voluptate Lorem. Officia id cupidatat nulla minim deserunt ad labore labore. Eu ipsum magna occaecat id dolor do exercitation esse sint. Mollit ut sint nulla adipisicing eiusmod ut officia elit deserunt sit.
-
-Deserunt fugiat eiusmod sit tempor ex ipsum irure est do qui non cillum. Tempor exercitation cillum aute eiusmod commodo eiusmod anim aliqua duis cillum ipsum. Velit magna tempor nulla proident reprehenderit in quis. Elit occaecat amet excepteur adipisicing culpa.
+We’re a diverse group of alderpeople representing 21 of Chicago’s 77 communities. We center working working class Chicagoans and movements for justice in our legislative work. We organize collectively - not act individually. We know that it is through bringing together working class communities from across Chicago that we can achieve the power needed to defeat rich and powerful special interests at City Hall. After all, bringing together working class Chicagoans to defeat special interests is how we all got elected. We are the Democratic Socialist Caucus of the Chicago City Council, and **we are fighting for a Chicago for all.**
 
 ## Learn more about the caucus
 
