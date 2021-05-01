@@ -1,11 +1,40 @@
 <form
+  id="email-capture"
+  name="email-capture"
   action="https://formspree.io/f/xwkavbzl"
   method="POST"
 >
-  <label>
-    Your email:
-    <input type="email" name="_replyto">
+  <label style="" for="_replyto">
+    Stay in the loop!
   </label>
+  <input type="email" name="_replyto" placeholder="Email Address">
   <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+  <button type="submit">Submit</button>
 </form>
+
+<script>
+  const emailForm = document.getElementById('email-capture');
+  const formData = new FormData();
+  const emailInput = document.querySelector('input[type="email"]')
+
+  emailForm.onsubmit = function(event) {
+    event.preventDefault();
+    console.log('success!')
+    console.log(encodeURIComponent(emailInput.value))
+    fetch('https://formspree.io/f/xwkavbzl', {
+      method: 'POST',
+      headers: {
+        "Content-Type": "application/x-www-form-urlencoded",
+      },
+      body: `_replyto=${encodeURIComponent(emailInput.value)}`
+    })
+    .then(response => response.json())
+    .then(data => {
+      console.log('Success:', data);
+    })
+    .catch((error) => {
+      console.error('Error:', error);
+    });
+  }
+
+</script>
