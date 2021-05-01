@@ -12,6 +12,14 @@
       <!-- text -->
       {{item.content}}
     </div>
+    <div style="padding-top: 5px">
+      <a class="social" href="{{ item.twitter }}" style="text-decoration: none;">
+        <i class="fab fa-twitter" style="background-color: #1da1f2; color: white; font-size: 1.125rem; padding:5px; border-radius: 6px;"></i>
+      </a>
+      <a href="{{ item.website }}" style="text-decoration: none;">
+        <i class="fas fa-link" style="background-color: white; color: grey; font-size: 1.125rem; padding:5px; border-radius: 6px;"></i>
+      </a>
+    </div>
   </div>
   {% endfor %}
 </div>
