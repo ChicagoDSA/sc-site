@@ -196,8 +196,11 @@ Chicago's current budget process is undemocratic, broken and corrupt. It empower
 - Defund the Police, Fund our Communities: The safest communities aren't the ones with the most police but the communities with the most non-police, non-incarceration resources. We need to have a budget process and budget that ensures that truth.
 
 **Public and democratic control of all public goods, services and institutions**
+<br>
 To have a truly functioning government and political system that works for all of Chicago and not just the rich we need to make sure all areas of our government and political process is public, democratically controlled and fully funded. This is an important way we can protect our government from capitalist interests.
 
 - Democratic community control of local public goods, services and institutions
 - Public funding for all election candidates: This serves as a buffer against monied interests so that it is harder for them to overtake the electoral process.
 - Equitable funding and staffing of City Council overall and at the aldmanic level on par with mayor's office and executive branch
+<hr>
+Our platform was inspired by CDSA, DSA NYC, UWF, Grassroots Collaborative, DSA for the City and the Diane Morales Mayoral campaign policy platforms. Thank you.
