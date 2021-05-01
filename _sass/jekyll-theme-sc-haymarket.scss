@@ -348,7 +348,13 @@ a,
     .single-menu-item,
     #desktop-menu ul,
     .desktop-menu-group ul li {
-      font-size: 0.9375rem;
+      font-size: 1.3rem;
+      @include medium {
+        font-size: 1.1rem;
+      }
+      @include small {
+        font-size: 1rem;
+      }
     }
 
     #top-buttons,
@@ -537,6 +543,14 @@ a,
         display: inline-block;
         margin: 0;
         line-height: 2.25rem;
+        font-size: 1.9rem;
+        @include medium {
+          font-size: 1.5rem;
+        }
+
+        @include small {
+          font-size: 1.3rem;
+        }
 
         a {
           display: flex;
@@ -684,7 +698,7 @@ a,
       }
 
       #tagline {
-        max-width: 75%;
+        max-width: 90%;
       }
     }
 
@@ -694,7 +708,7 @@ a,
       }
 
       #tagline {
-        max-width: 80%;
+        max-width: 100%;
       }
     }
   }

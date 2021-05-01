@@ -1,5 +1,5 @@
 ---
-title: "Introducing the Chicago Democratic Socialists Caucus"
+title: "Introducing the Chicago Democratic Caucus"
 date: 2021-04-21
 image:
 layout: post
