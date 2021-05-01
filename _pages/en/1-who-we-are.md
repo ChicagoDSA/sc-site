@@ -1,10 +1,12 @@
 ---
 lang-ref: who-we-are
 layout: no-title-h1
+title: Who We Are
 description: We are a multiracial coalition of alderpeople representing portions of 20 neighborhoods
 image: images/socialist-caucus-group.jpg
 image-description: "(Left to right) Byron Sigcho Lopez, Daniel La Spata, Rossana Rodriguez Sánchez, Jeanette Taylor, Carlos Ramirez-Rosa"
 image-credit: "Isaac Silver"
+permalink: /who-we-are
 ---
 
 # Who We Are

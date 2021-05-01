@@ -21,7 +21,3 @@ Deserunt fugiat eiusmod sit tempor ex ipsum irure est do qui non cillum. Tempor 
 ## Learn more about the caucus
 
 {% include list-tiles.html collection="pages" limit=4 %}
-
-## Join our mailing list
-
-insert form here
