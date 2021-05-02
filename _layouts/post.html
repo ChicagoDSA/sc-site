@@ -7,7 +7,7 @@
 			{% include header-image.html image=page.image description=page.image-description credit=page.image-credit %}
 		{% endif %}
 		<main id="main-content" role="main">
-      <div>{{page.date | date: "%-d %B %Y"}} </div>
+      <div><strong>{{page.date | date: '%B %-d, %Y'}}</strong></div>
       {{ content }}
     </main>
 		{% include footer-container.html %}
