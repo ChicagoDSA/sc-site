@@ -37,7 +37,7 @@ Healthcare is a human right. In Chicago we have a socialized mental health care 
 - Reopening, fully funding, expanding all of Chicago’s public mental health clinics.
 - Expanding capacity for the public mental health clinics with an equity framework to ensure working class communities and Black, Indigeous and people of color communities healthcare needs are met.
 - Ensuring all public mental health clinics have mobile units to respond to crisis and emergencies in the community through the Treatment not Trauma model.
-- Create permanent vaccination centers in every community in public buildings such as schools and Chicago Park District field houses.
+- Create vaccination centers in every community in public buildings such as schools and Chicago Park District field houses.
 
 Current legislation:
 <br>
@@ -165,9 +165,9 @@ Labor is the foundation of all wealth in society. All labor deserves the dignity
 For too long in Chicago, the rich have not paid their fair share of taxes while the working class has. Chicago is not broke, it's just elected officials willing to stand up to Wall Street and 1% to make sure the rich pay their fair share. There are a multitude of ways to ensure Chicago has a progressive and fair revenue system that ensures all our communities receive the investment we deserve.
 
 - PILOT: Ensures large universities like University of Chicago, the largest landowner and employer on the southside contribute to the city by agreeing to pay a fee in light of not having to pay any taxes on the wealth and value it generates.
-- [Amazon Tax](https://drive.google.com/drive/folders/1v_mERDz1XaoAuKsGiHgwahJEoiuucWgT): Ensures large corporations like Walmart, Target and Amazon pay their fair share in taxes.
-- [Empty Homes Penalty](https://drive.google.com/drive/folders/1v_mERDz1XaoAuKsGiHgwahJEoiuucWgT): Makes property owners who keep their buildings vacant inorder to speculate pay a higher penalty for having a vacancy. This is to encourage equitable investment in communities that usually don't get as much investment.
-- Large [Landlord Licensing Fee](https://drive.google.com/drive/folders/1v_mERDz1XaoAuKsGiHgwahJEoiuucWgT): Ensures large property owners pay a higher fee.
+- Amazon Tax: Ensures large corporations like Walmart, Target and Amazon pay their fair share in taxes.
+- Empty Homes Penalty: Makes property owners who keep their buildings vacant inorder to speculate pay a higher penalty for having a vacancy. This is to encourage equitable investment in communities that usually don't get as much investment.
+- Large Landlord Licensing Fee: Ensures large property owners pay a higher fee.
 - Airbnb Licensing Fee increase: Creates a higher fee for property owners who choose not to rent their property but instead use it for Air-BnB.
 - End Regressive Revenue
   - Fines, fees and penalties should be ended immediately.
@@ -203,4 +203,4 @@ To have a truly functioning government and political system that works for all o
 - Public funding for all election candidates: This serves as a buffer against monied interests so that it is harder for them to overtake the electoral process.
 - Equitable funding and staffing of City Council overall and at the aldmanic level on par with mayor's office and executive branch
 <hr>
-Our platform was inspired by CDSA, DSA NYC, UWF, Grassroots Collaborative, DSA for the City and the Diane Morales Mayoral campaign policy platforms. Thank you.
+Our platform was inspired by CDSA, DSA NYC, UWF, Grassroots Collaborative, DSA for the City and the Diane Morales Mayoral campaign policy platforms.
