@@ -111,7 +111,7 @@ Current legislation:
 
 **Racial Justice**
 <br>
-The Socialsit Caucus knows there cannot be economic justice without racial justice. We seek to undo the divestment of communities of color, especially the Black community. This can only happen by radically changing our government and economy. This is why all our policies in order to be truly universal have to account for structural racism and seek to remedy it through equitable distribution and application.
+The Socialist Caucus knows there cannot be economic justice without racial justice. We seek to undo the divestment of communities of color, especially the Black community. This can only happen by radically changing our government and economy. This is why all our policies in order to be truly universal have to account for structural racism and seek to remedy it through equitable distribution and application.
 
 **Immigrant Justice**
 <br>
@@ -203,4 +203,4 @@ To have a truly functioning government and political system that works for all o
 - Public funding for all election candidates: This serves as a buffer against monied interests so that it is harder for them to overtake the electoral process.
 - Equitable funding and staffing of City Council overall and at the aldmanic level on par with mayor's office and executive branch
 <hr>
-Our platform was inspired by CDSA, DSA NYC, UWF, Grassroots Collaborative, DSA for the City and the Diane Morales Mayoral campaign policy platforms.
+Our platform was created with help from policy advisor Jasson Perez and inspired by CDSA, DSA NYC, UWF, Grassroots Collaborative, DSA for the City and the Diane Morales Mayoral campaign policy platforms.
