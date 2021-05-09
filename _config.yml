@@ -60,6 +60,9 @@ webp:
   append_ext: false
 ############################################################
 
+# kramdown:
+#   parse_block_html: true
+
 # Set default front matter for Markdown files
 defaults:
   - scope:

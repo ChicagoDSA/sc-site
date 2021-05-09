@@ -16,6 +16,8 @@ permalink: /platform
 - We organize collectively, not act individually.
 - We strive for international solidarity, working in concert with and learning from oppressed people across the globe.
 
+<!-- {% include toc.html %} -->
+
 ## Our Policy Platform
 
 Care, solidarity, and democracy. We believe these are essential to change Chicago for the better. The policies we present here are a pathway to overcome the challenges we face of wealth inequality, climate change, structural racism, and police violence. Our policy platform is meant to be a beginning at a new way of doing electoral politics in Chicago. We tried our best to keep the solutions simple, direct and strong enough to structurally change our city, government, political system and economy to improve the lives of all working class Chicagoans.
@@ -30,8 +32,8 @@ Our policy platform is a living document, and we will continue to add to the pla
 
 Every Chicagoan must have access to free, universal, reparative public goods and services. Every Chicagoan deserves to be safe. We know the safest communities are ones with the most investment and resources, not police. Our caucus will work to divest from harmful and ineffective policing and invest in policies and programs that are effective at reducing violence, and creating communities of restorative accountability and justice.
 
-**Healthcare for All**
-<br>
+### Healthcare for All
+
 Healthcare is a human right. In Chicago we have a socialized mental health care system that has been under attack by neoliberal policies for decades. Out of 19 public mental health clinics once owned and operated by the city we are now down to just five. We will work to make sure all Chicagoans have access to free, universal, comprehensive mental healthcare by reopening the closed clinics and expanding services. Universal includes all residents of Chicago regardless of immigration, employment or conviction status. Comprehensive includes all kinds of approaches to mental health care from clinical therapy to psychiatry including treatment and support of substance abuse situations. We also want to expand the capacity and possibilities of our public mental health clinics to include primary health care. We also need a comprehensive publicly run vaccination strategy that ensures that every person living in Chicago has access to the vaccine in their community.
 
 - Reopening, fully funding, expanding all of Chicago’s public mental health clinics.
@@ -44,8 +46,8 @@ Current legislation:
 
 - Treatment Not Trauma Council Order. This legislation would create a crisis response and care model that would address instances of mental health crisis and non violent incidents. The program would use the Public mental health clinics as triage centers for the model to ensure the needed care and follow up.
 
-**Education for All**
-<br>
+### Education for All
+
 Public education is vital to ensuring a vibrant democracy, healthy communities and fulfilling life. We believe education needs to be free, universal, and community controlled. True education justice ensures all ages are able to get an education based upon one's needs and desires.
 
 - Publicly funding school board elections and Local School Council elections
@@ -56,12 +58,12 @@ Public education is vital to ensuring a vibrant democracy, healthy communities a
 - Free, universal Pre- K education from infancy to 5
 - Guaranteed and Free internet and laptops for all students
 
-**Transportation for All**
-<br>
+### Transportation for All
+
 Robust and fully funded public transportation is the cornerstone of a fair, equitable and healthy Chicago. Working class Chicagoans have a right to public transportation that is clean, on time, safe, fast and covers all of Chicago neighborhoods in an equitable manner, limits commutes, and enhances access to jobs and recreation. Public transportation is also a pivotal step to ensuring we have a green city, communities and economy. It is also key to making sure our neighborhoods are safer, more sustainable in terms of energy and natural environment.
 
-**Public Safety**
-<br>
+### Public Safety
+
 Chicago needs to transform public safety to ensure working class communities, especially Black and Latinx communities are safe from police and interpersonal violence. We need to stop spending a relative majority of our public money on policing and incarceration that is ineffective at reducing violence and many times only makes our communities less safe. Instead we need to invest in solutions that reduce violence and harm. This is only part of the solution, we need to also fully fund public services, goods and institutions to ensure our communities are thriving and have access to the resources needed to overcome violence and harm in a restorative manner.
 
 - Community protection centers in every ward which will have dispute resolution practitioners for neighborhood and domestic disputes, family support services, violence prevention and mediation services, and crisis intervention teams. Access to such services would be available on site, online, on the phone or at one's residence through mobile units.
@@ -92,8 +94,8 @@ Current legislation:
 
 Chicagoans deserve a city, economy and government that works for us all, not just the 1%. For too long working class communities have had to bear the cost of funding public services and gentrification while Wall Street, real estate developers and corporations have avoided paying their fair share in taxes in Chicago. True solidarity is making sure we tax the rich, go after polluters and ensure workers and the people control the economy.
 
-**Environmental Justice**
-<br>
+### Environmental Justice
+
 Wall Street, real estate developers and fossil fuel companies are responsible for the climate change our communities are experiencing. This is why now is the time to take on those corporate and financial interests to ensure we have our basic needs and rights met when it comes to our environment. We have to publicly own, and democratically control our public utilities. Gas, electricity, internet, water and banking are all goods and services we need. No one should be profiting off them and charging predatory prices for them. In addition the infrastructure needed to meet the environmental and day to day needs has failed us and is just not up to the task.
 
 - Clean water for all: we need to invest in a new sewage and water infrastructure to make sure all Chicagoans have access to safe and clean water.
@@ -109,12 +111,12 @@ Current legislation:
 - [Democratize ComED](https://demcomed.org/press_releases): Would have the city end the contract with ComEd so that city could then take it over.
 - [Water For All Ordinance](https://www.wbez.org/stories/alderman-once-again-seeks-legislation-to-protect-some-chicagoans-from-water-shutoffs/535ba106-55b5-4458-a891-e10fadb0801a): Ensures peoples water cannot be turned off. Creates a relief fund for people who can't make their water payment. It bans water privatization and creates a framework for equitable water infrastructure investment.
 
-**Racial Justice**
-<br>
+### Racial Justice
+
 The Socialist Caucus knows there cannot be economic justice without racial justice. We seek to undo the divestment of communities of color, especially the Black community. This can only happen by radically changing our government and economy. This is why all our policies in order to be truly universal have to account for structural racism and seek to remedy it through equitable distribution and application.
 
-**Immigrant Justice**
-<br>
+### Immigrant Justice
+
 All people have a right to a dignified life, participate in all aspects of civil, social and economic life and be able to live free of harassment and criminalization by state authorities. Immigration happens because of the conditions created by capitalism and US imperialism in other countries. Monied interests seek to keep immigrants from obtaining rights and citizenship to exploit them for their labor. We as the Socialist Caucus reject this. Immigrants have every right to earn a living and live a good life here and should be free to come and go as they please. We know change only happens when all workers seek solidarity with each other. Ensuring immigrant justice and rights is how we go about building that solidarity. It ends the stratifications of workers monied interest seek and instead esure the solidarity needed to organize and win a better Chicago.
 
 - Ensure all workers and civil rights are afforded to immigrants.
@@ -122,8 +124,8 @@ All people have a right to a dignified life, participate in all aspects of civil
 - Ensure all of our policies have an immigrant justice and equity approach.
 - Erase the gang database.
 
-**Housing For All**
-<br>
+### Housing For All
+
 Housing is a social good that should be guaranteed to everyone. All housing in Chicago is built upon land stolen from the Indigeous through European colonization. This privatization of land enabled the accumulation of wealth at the expense of the working class communities. The Socialist Caucus wishes to make a beginning of correcting centuries of land and housing injustice. To do so, we need to make sure housing in our city is democratically produced, maintained and controlled by working class communities. That means getting the profit motive out of the housing and development decisions as well as real estate developers, speculators, Wall Street Banks and large landlords.
 
 - End unjust evictions, Rent Hikes and Expand Tenants Rights
@@ -144,14 +146,14 @@ Current legislation:
 - [Just Cause For Evictions](https://www.citybureau.org/newswire/2020/8/27/chicago-could-be-the-latest-city-with-a-just-cause-for-eviction-law): Ensures renters cannot be evicted for arbitrary reasons by landlords
 - [One Home, One Chicago Ordinance Package](https://www.chicagohousinginitiative.org/copy-of-values-why-fight-for-ktp): Ensures public housing investment and equitable community development
 
-**Finance for the People**
-<br>
+### Finance for the People
+
 Banking, finance, credit and debt are public goods and utilities and should be treated as such. We can have a finance sector that is controlled by the people instead of by Wall Street banks, predatory payday lenders and debt collectors that divest from our communities. We would have banking, finance and credit infrastructure for the community and public good instead of the profit motive. Gone would be the days of arbitrary mortgage rates, loan rates, bank fees that keep families and communities in predatory debt and living check to check.
 
 - [Peoples Bank](https://democracypolicy.network/the-agenda/policy_kit/public-banks): A public bank with a democratically elected board that would provide free checking and savings accounts for all residents of Chicago. In addition it would be able to provide mortgages. small business loans, car loans and peoples financial and credit needs in a non-predatory manner. This kind of bank would help to stop payday lending.
 
-**Labor**
-<br>
+### Labor
+
 Labor is the foundation of all wealth in society. All labor deserves the dignity of a living income or wage. This goes for those who have to work at an employer or other forms of labor, usually care work done by women that occurs without compensation.
 
 - Right to employment and employment protections: All Chicagoans who seek a job should have access to employment with a living wage and full benefits.
@@ -160,8 +162,8 @@ Labor is the foundation of all wealth in society. All labor deserves the dignity
 - Right to Organize a Union: The City of Chicago needs to guarantee the rights of workers to organize unions if so needed and incentive the process for workers.
 - Right to cooperative ownership of the workplace: City of Chicago needs to guarantee the rights of workers to organize worker cooperatives if so needed and incentive the process for workers.
 
-**Tax the Rich: Progressive Revenue**
-<br>
+### Tax the Rich: Progressive Revenue
+
 For too long in Chicago, the rich have not paid their fair share of taxes while the working class has. Chicago is not broke, it's just elected officials willing to stand up to Wall Street and 1% to make sure the rich pay their fair share. There are a multitude of ways to ensure Chicago has a progressive and fair revenue system that ensures all our communities receive the investment we deserve.
 
 - PILOT: Ensures large universities like University of Chicago, the largest landowner and employer on the southside contribute to the city by agreeing to pay a fee in light of not having to pay any taxes on the wealth and value it generates.
@@ -176,8 +178,8 @@ For too long in Chicago, the rich have not paid their fair share of taxes while 
   - Cancel Wall Street: The City of Chicago should cancel all its bonds with Wall Street. The Federal reserve should allow Chicago to refinance all its debt and take out new loans at 0%. This would save Chicago over $1 billion dollars yearly which could go to much needed programs, goods and services.
   - Public Bank: City Council should create a municipal public bank to ensure our public money goes to the things we need instead of Wall Street banks due to fines and fees. This allows our city greater financial independence and lets us invest in large scale projects easier like green public and social housing.
 
-**Right to Recovery for all**
-<br>
+### Right to Recovery for all
+
 The COVID pandemic has devastated Chicago. Working class Latinx and Black communities in particular have been hit the hardest. We need an equitable recovery from the pandemic and recession that ensures all communities come out of this in a better place.
 
 - Fully funded, free, universal, testing, community based vaccinations and tracing
@@ -187,16 +189,16 @@ The COVID pandemic has devastated Chicago. Working class Latinx and Black commun
 
 The Socialist Caucus deeply believes we must democratize our government, political system and economy in order to create a just and equitable Chicago for all. Expanding democracy is what will guarantee we beat back the forces of the Wall Street banks, real estate developers and large corporations. It will also ensure all our people have the agency in making decisions that improve and transform our city.
 
-**A People's Budget**
-<br>
+### A People's Budget
+
 Chicago's current budget process is undemocratic, broken and corrupt. It empowers Wall Street, real estate and corporate interests against the will of the working class communities across Chicago. We need a budget process that is democratic, participatory and empowers working class communities. We need a budget that reflects the needs and priorities of the working class communities.
 
 - End the practice of using the Rules Committee to bury legislation and avoid necessary public conversations. Ensure that the Committee on Rules meets once a month in order to send legislation to the committee where it belongs for democratic discussion.
 - End divestment in Black and Brown communities, invest in public health, jobs, violence interruption, restorative justice programs, housing, cultural programs, libraries, green public space and reparative public infrastructure.
 - Defund the Police, Fund our Communities: The safest communities aren't the ones with the most police but the communities with the most non-police, non-incarceration resources. We need to have a budget process and budget that ensures that truth.
 
-**Public and democratic control of all public goods, services and institutions**
-<br>
+### Public and democratic control of all public goods, services and institutions
+
 To have a truly functioning government and political system that works for all of Chicago and not just the rich we need to make sure all areas of our government and political process is public, democratically controlled and fully funded. This is an important way we can protect our government from capitalist interests.
 
 - Democratic community control of local public goods, services and institutions
