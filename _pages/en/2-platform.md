@@ -8,6 +8,8 @@ image: images/chicago-flag.svg
 permalink: /platform
 ---
 
+{::options parse_block_html="true" /}
+
 - We aim to shift the balance of power between the working class and capitalist class - particularly the power of working class people to make real change in their workplaces and communities.
 - We will not be bought into doing the bidding of large corporations, developers, or wealthy private interests.
 - We are guided by an anti-racist, feminist analysis of society.
@@ -16,7 +18,7 @@ permalink: /platform
 - We organize collectively, not act individually.
 - We strive for international solidarity, working in concert with and learning from oppressed people across the globe.
 
-<!-- {% include toc.html %} -->
+{% include toc.html %}
 
 ## Our Policy Platform
 

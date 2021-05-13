@@ -1,72 +1,41 @@
-<style>
-  .sidenav {
-  height: 100%;
-  width: 0;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  background-color: #111;
-  overflow-x: hidden;
-  transition: 0.5s;
-  padding-top: 60px;
-}
-
-.sidenav a {
-  text-decoration: none;
-  font-size: 18px;
-  color: white;
-  display: block;
-  transition: 0.3s;
-}
-
-.sidenav a:hover {
-  color: #f1f1f1;
-}
-
-.sidenav .closebtn {
-  position: absolute;
-  top: 0;
-  right: 25px;
-  font-size: 36px;
-  margin-left: 50px;
-}
-</style>
-<div id='mySidenav' class='sidenav'>
-  <strong class='toc-title' style="padding-right: 20px;">Table of Contents</strong>
+<div id='sideNavContainer' class='sidenav'>
+  <strong class='toc-title'>Table of contents</strong>
   <span class='closebtn'>&times;</span>
   <div class='toc-list'>
   * this unordered seed list will be replaced by toc as unordered list
   {:toc}  
   </div>
 </div>
-  <span class="open-btn" style='font-size:30px;cursor:pointer'>&#9776; open</span>
+  <span class="open-btn">&#9776; Contents</span>
 <script>
   let isOpen = false;
-  document.querySelector('#markdown-toc').style.display = 'none';
-  document.querySelector('.toc-title').style.display = 'none';
+  const markdownToc = document.querySelector('#markdown-toc');
+  const tocTitle = document.querySelector('.toc-title');
+  const sideNavContainer = document.getElementById('sideNavContainer');
+  markdownToc.style.display = 'none';
+  tocTitle.style.display = 'none';
   document.querySelector('.open-btn').onclick = function() {
     openNav();
   }
   document.querySelector('.closebtn').onclick = function() {
     closeNav();
   }
-  document.getElementById('mySidenav').addEventListener('click', function(event) {
+  sideNavContainer.addEventListener('click', function(event) {
     event.stopPropagation();
   })
   function openNav() {
-    document.getElementById('mySidenav').style.width = '250px';
+    sideNavContainer.style.width = '250px';
     setTimeout(function() {
-      document.querySelector('#markdown-toc').style.display = 'block';
-      document.querySelector('.toc-title').style.display = 'block';
+      markdownToc.style.display = 'block';
+      tocTitle.style.display = 'block';
       isOpen = true;
     }, 400);
   };
   function closeNav() {
     isOpen = false;
-    document.querySelector('#markdown-toc').style.display = 'none';
-    document.querySelector('.toc-title').style.display = 'none'
-    document.getElementById('mySidenav').style.width = '0px';
+    markdownToc.style.display = 'none';
+    tocTitle.style.display = 'none'
+    sideNavContainer.style.width = '0px';
   };
   document.addEventListener('click', function(event) {
       if (isOpen) {

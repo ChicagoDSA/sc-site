@@ -1099,6 +1099,57 @@ a,
   }
 }
 
+// Table of contents element
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  text-decoration: none;
+  font-size: 18px;
+  color: white;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+.open-btn {
+  position: fixed;
+  bottom: 5px;
+  left: 15px;
+  cursor: pointer;
+  font-size: 18px;
+  background-color: #41b6e6;
+  color: white;
+  padding: 0px 10px;
+  border-radius: 3px;
+}
+.toc-title {
+  text-align: center;
+  color: white;
+}
+
 #footer-content {
   width: 100%;
   padding-top: 2rem;
