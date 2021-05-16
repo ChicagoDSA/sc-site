@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: sc-site/ChicagoDSA.github.io
+  repo: sc-site/chicagosocialistcaucus.org
   branch: main
   site_domain: modest-jackson-3a2ce8.netlify.app
 
