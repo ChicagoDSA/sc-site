@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: sc-site/chicagoDSA.github.io
+  repo: sc-site/ChicagoDSA.github.io
   branch: main
   site_domain: modest-jackson-3a2ce8.netlify.app
 
